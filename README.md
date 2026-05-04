@@ -108,17 +108,6 @@ I'm a **Machine Learning Engineer & Data Scientist** who loves turning messy, re
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumarkislay245-spec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=50c88c&icon_color=4a8fff&text_color=e8e4d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarkislay245-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=50c88c&text_color=e8e4d9"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=kumarkislay245-spec&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=50c88c&ring=4a8fff&fire=50c88c&currStreakLabel=50c88c)](https://git.io/streak-stats)
 
 </div>
