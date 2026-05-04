@@ -3,8 +3,7 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:50c88c,100:4a8fff&height=200&section=header&text=Kislay%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Data%20Scientist&descAlignY=60&descColor=c8f5e2" width="100%"/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=50C88C&center=true&vCenter=true&width=600&lines=Building+intelligent+ML+systems+🤖;Turning+raw+data+into+real+decisions+📊;6.3M+records+processed+%26+counting+🏦;Always+learning%2C+always+building+🚀"  />
 </a>
 
