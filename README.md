@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=50C88C&center=true&vCenter=true&width=600&lines=Building+intelligent+ML+systems+🤖;Turning+raw+data+into+real+decisions+📊;6.3M+records+processed+%26+counting+🏦;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=50C88C&center=true&vCenter=true&width=600&lines=Building+intelligent+ML+systems+🤖;Turning+raw+data+into+real+decisions+📊;6.3M+records+processed+%26+counting+🏦;Always+learning%2C+always+building+🚀"  />
 </a>
 
 <br/><br/>
@@ -107,7 +107,32 @@ I'm a **Machine Learning Engineer & Data Scientist** who loves turning messy, re
 
 ---
 
+<div align="center">
+
+### 🏦 Banking Analytics
+
+</div>
+
+> **The Challenge:** Extract meaningful business insights from raw banking data — understanding customer behavior, transaction patterns, and loan performance to support data-driven decisions.
+
+| What I Built | How I Built It |
+|---|---|
+| Customer segmentation & profiling | SQL aggregations + conditional logic |
+| Transaction trend analysis | Time-series querying on deposits & withdrawals |
+| Loan risk & distribution analysis | JOIN-based queries across customer & loan tables |
+| Interactive business dashboard | Power BI with drill-down by segment & time period |
+
+**Key outcome:** A complete analytics pipeline that identifies high-value customers, detects financial trends, and flags loan default risks — delivering insights that help banks improve retention and manage risk.
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarkislay245-spec/Banking-analytics-)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
+
 ## 📊 GitHub Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=kumarkislay245-spec&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=50c88c&ring=4a8fff&fire=50c88c&currStreakLabel=50c88c)](https://git.io/streak-stats)
 
 </div>
@@ -149,4 +174,3 @@ I'm actively seeking opportunities where I can:
 ![Visitor Count](https://komarev.com/ghpvc/?username=kumarkislay245-spec&color=50c88c&style=flat-square&label=Profile+Views)
 
 </div>
-
